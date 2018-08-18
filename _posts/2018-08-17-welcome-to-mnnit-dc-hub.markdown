@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postdisqus
 title:  "Welcome to mGeek.in MNNIT DC HUB"
 date:   2018-08-17 19:19:21 +0530
 categories: mGeek.in MNNIT DC++ hub
