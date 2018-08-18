@@ -4,3 +4,5 @@
 
 layout: home
 ---
+todays working hub ip.
+## [connect](dchub://172.31.95.202)
