@@ -4,5 +4,5 @@
 
 layout: home
 ---
-todays working hub ip 172.31.95.202.
-## [connect](dchub://172.31.95.202)
+todays working hub ip Working DC HUB 172.31.44.51.
+## [connect](dchub://172.31.44.51:411)
