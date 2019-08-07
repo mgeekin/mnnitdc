@@ -40,3 +40,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+permalink: /:path/:title/
+topmenu: [true]
+submenu: [Classes]
+assets: https://raw.githubusercontent.com/mgeekin/asma/master/assets/
+themeassets: https://raw.githubusercontent.com/mgeekin/asma/master/assets/
