@@ -24,7 +24,8 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: conference-mgeek.in-jekyll-theme
+remote_theme: https://github.com/mgeekin/conference-mgeek.in-jekyll-theme
 plugins:
   - jekyll-feed
 
