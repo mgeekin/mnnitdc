@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 topmenu: true
 layout: home
-comment: true
+comments: true
 ---
 
 #  Working DC HUB in MNNIT 
